@@ -1,7 +1,7 @@
 Documentation pour le Script de Mise à Jour des Mods Factorio
 Description
 
-Ce script Python est conçu pour automatiser la mise à jour des mods pour le jeu Factorio. Il vérifie les versions des mods installés, télécharge les dernières versions disponibles, et remplace les anciennes versions par les nouvelles.
+Ce script Python est conçu pour automatiser la mise à jour des mods pour le serveur headless Factorio sous Linux. Il vérifie les versions des mods installés, télécharge les dernières versions disponibles, et remplace les anciennes versions par les nouvelles.
 Prérequis
 
     Système d'exploitation : Linux
