@@ -28,7 +28,7 @@ Utilisation
         Assurez-vous d'être dans le répertoire racine de Factorio.
         Exécutez le script avec Python :
 
-        python3 factorio_mods_updater.py
+        python3 FactorioModUpdater.py
 
     Journalisation :
         Le script enregistre les erreurs et les actions dans un fichier de log situé à ~/mod_updater.log.
