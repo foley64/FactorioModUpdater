@@ -361,7 +361,7 @@ def check_and_update_mods(token, username):
             else:
                 current_version = get_current_mod_version(mod_name)
                 if latest_version and latest_version != current_version:
-                    new_mod_zip_path = download_mod(mod_name, latest_version, token)
+                    new_mod_zip_path = download_mod(mod_name, latest_version, token, username)
                     if new_mod_zip_path and current_version:
                         delete_old_mod_version(mod_name, current_version)
                 else:
